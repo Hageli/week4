@@ -31,6 +31,9 @@ body {
   .show-info {
     padding: 10px;
   }
+}
+
+@media (max-width: 800px) {
   img {
     margin: auto;
   }
