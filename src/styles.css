@@ -24,7 +24,7 @@ body {
   width: 100%;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 800px) {
   .show-data {
     display: flex;
   }
